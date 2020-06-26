@@ -13,4 +13,4 @@ Mein Charakter sagte:
 > sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, 
 > sed diam voluptua.
 
-![mARgo](https://margo-projekt.de/img/header0.png)
+<img src="https://margo-projekt.de/img/header0.png"/>
