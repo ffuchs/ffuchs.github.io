@@ -1,6 +1,8 @@
 # Mein Titel
+
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren.
 ## Charaktereigenschaften
+
 * Lorem ipsum dolor sit amet, 
 * consetetur sadipscing elitr, 
 * sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, 
@@ -10,5 +12,7 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 
 Mein Charakter sagte:
 > Lorem ipsum dolor sit amet, consetetur sadipscing elitr, 
-> sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, 
+> sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat,
 > sed diam voluptua.
+
+![Bild](<img src="https://margo-projekt.de/img/header0.png">)
