@@ -12,3 +12,5 @@ Mein Charakter sagte:
 > Lorem ipsum dolor sit amet, consetetur sadipscing elitr, 
 > sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, 
 > sed diam voluptua.
+
+<img src="https://margo-projekt.de/img/header0.png"/>
